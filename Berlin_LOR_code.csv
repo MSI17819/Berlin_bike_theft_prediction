@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Berlin_code_area;Administrative_district;District;Quarter;Streer_name
 1100101;Mitte;Zentrum;Tiergarten Süd;Stülerstraße
 1100102;Mitte;Zentrum;Tiergarten Süd;Großer Tiergarten
@@ -540,7 +539,7 @@ Berlin_code_area;Administrative_district;District;Quarter;Streer_name
 12601134;Reinickendorf;Märkisches Viertel;MV Nord ;Märkisches Zentrum
 12601235;Reinickendorf;Märkisches Viertel;MV Süd;Dannenwalder Weg
 12601236;Reinickendorf;Märkisches Viertel;MV Süd;Schorfheidestraße
-=======
+=======;;;;
 Berlin_code_area;Administrative_district;District;Quarter;Streer_name
 1100101;Mitte;Zentrum;Tiergarten Süd;Stülerstraße
 1100102;Mitte;Zentrum;Tiergarten Süd;Großer Tiergarten
@@ -1082,4 +1081,3 @@ Berlin_code_area;Administrative_district;District;Quarter;Streer_name
 12601134;Reinickendorf;Märkisches Viertel;MV Nord ;Märkisches Zentrum
 12601235;Reinickendorf;Märkisches Viertel;MV Süd;Dannenwalder Weg
 12601236;Reinickendorf;Märkisches Viertel;MV Süd;Schorfheidestraße
->>>>>>> bee4fbd2415aab14bd0e475af021088c3ca7d65e
