@@ -87,7 +87,7 @@ Street name – Berlin street name
 
 - [Scikit-learn](https://scikit-learn.org/stable/)
 
-####Data visualisation library:
+####Data visualisation library
 
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
