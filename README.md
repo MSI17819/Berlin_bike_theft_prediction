@@ -1,9 +1,9 @@
 # Project Name
-###Berlin bike thief prediction
+### Berlin bike thief prediction
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Dataset](#technologies-used)
+* [Dataset](#dataset)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Setup](#setup)
@@ -23,7 +23,9 @@ Dataset is csv file available from [link](https://daten.berlin.de/datensaetze/fa
 
 Dataset contain information about bike thief in Berlin since 01/01/2021 and are regulary updated.
 
-###1) Dataset contain information:
+
+#### 1) Dataset contain information:
+
 
 ANGELEGT_AM – Record date = record date for each crime
 
@@ -58,7 +60,9 @@ ERFASSUNGSGRUND = Crime reason four category:
 
 Aggrevated theft = theft with break-in, theft with robbery (aggressor has to use force against person or property)
 
-###2) LOR dataset:
+
+#### 2) LOR dataset:
+
 
 LOR dataset available from [link](https://github.com/MSI17819/Berlin_bike_theft_prediction/blob/main/Berlin_LOR_code.csv)
 
@@ -72,22 +76,27 @@ Quarter – Berlin quater name
 
 Street name – Berlin street name
 
-##Technologies Used
+### Technologies Used
 
-####Computing platform
+
+#### Computing platform
+
 - [Miniconda environment](https://docs.conda.io/en/latest/miniconda.html)
 - [Jupyter Notebook](https://jupyter.org/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+
  
-####Packages for data pre-processing
+#### Packages for data pre-processing
+
 - [Numpy](https://numpy.org/)
 - [Pandas](https://numpy.org/)
 
-####Machine Learning library
+
+#### Machine Learning library
 
 - [Scikit-learn](https://scikit-learn.org/stable/)
 
-####Data visualisation library
+#### Data visualisation library
 
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
