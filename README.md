@@ -4,10 +4,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Dataset](#dataset)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Setup](#setup)
-* [Usage](#usage)
+* [Technology stack](#technology_stack)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -24,7 +21,7 @@ Dataset is csv file available from [link](https://daten.berlin.de/datensaetze/fa
 Dataset contain information about bike thief in Berlin since 01/01/2021 and are regulary updated.
 
 
-#### 1) Dataset contain information:
+#### 1) Dataset contain information
 
 
 ANGELEGT_AM – Record date = record date for each crime
@@ -61,7 +58,7 @@ ERFASSUNGSGRUND = Crime reason four category:
 Aggrevated theft = theft with break-in, theft with robbery (aggressor has to use force against person or property)
 
 
-#### 2) LOR dataset:
+#### 2) LOR dataset
 
 
 LOR dataset available from [link](https://github.com/MSI17819/Berlin_bike_theft_prediction/blob/main/Berlin_LOR_code.csv)
@@ -76,27 +73,57 @@ Quarter – Berlin quater name
 
 Street name – Berlin street name
 
-### Technologies Used
+#### 3) Dataset for analysis
+
+
+Dataset is csv file available from [link](https://github.com/MSI17819/Berlin_bike_theft_prediction/blob/main/Berlin_bike_thief_file_for_analysis.csv)
+
+The dataset contains pre-processed data into a usable form.
+The data set will be used in the next step of the analysis.
+
+### Technology stack
 
 
 #### Computing platform
+
 
 - [Miniconda environment](https://docs.conda.io/en/latest/miniconda.html)
 - [Jupyter Notebook](https://jupyter.org/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
- 
 #### Packages for data pre-processing
+
 
 - [Numpy](https://numpy.org/)
 - [Pandas](https://numpy.org/)
 
-
 #### Machine Learning library
+
 
 - [Scikit-learn](https://scikit-learn.org/stable/)
 
 #### Data visualisation library
 
+
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
+
+### Project status
+
+Project is: *in progress*
+
+## Room for Improvement
+
+
+In future project can be improved by:
+- adding more data to dataset e.g. district longitude, latitude data
+- adding data about district density population
+- expand dataset not only bike thief but other crimes
+
+## Acknowledgements
+
+
+## Contact
+
+
+Created by 123michal86@gmail.com - feel free to contact me!
