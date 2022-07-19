@@ -16,7 +16,7 @@
 Prediction bikes thief crimes in Berlin using Machine Learning Models.
 
 ## Dataset
-Dataset is csv file available from [link](https://daten.berlin.de/datensaetze/fahrraddiebstahl-berlin).
+The dataset is available in a csv file [link](https://daten.berlin.de/datensaetze/fahrraddiebstahl-berlin).
 
 Dataset contain information about bike thief in Berlin since 01/01/2021 and are regulary updated.
 
@@ -61,7 +61,7 @@ Aggrevated theft = theft with break-in, theft with robbery (aggressor has to use
 #### 2) LOR dataset
 
 
-LOR dataset available from [link](https://github.com/MSI17819/Berlin_bike_theft_prediction/blob/main/Berlin_LOR_code.csv)
+LOR dataset is available in a csv file [link](https://github.com/MSI17819/Berlin_bike_theft_prediction/blob/main/Berlin_LOR_code.csv)
 
 Berlin code area = LOR number
 
@@ -76,7 +76,7 @@ Street name – Berlin street name
 #### 3) Dataset for analysis
 
 
-Dataset is csv file available from [link](https://github.com/MSI17819/Berlin_bike_theft_prediction/blob/main/Berlin_bike_thief_file_for_analysis.csv)
+The dataset is available in a csv file [link](https://github.com/MSI17819/Berlin_bike_theft_prediction/blob/main/Berlin_bike_thief_file_for_analysis.csv)
 
 The dataset contains pre-processed data into a usable form.
 The data set will be used in the next step of the analysis.
