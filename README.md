@@ -118,7 +118,7 @@ Project is: *in progress*
 In the future project can be improved by:
 - adding more data to dataset e.g. district longitude, latitude data
 - adding data about district density population
-- expand dataset not only bike thief but other crimes
+- expand dataset not only bike thief but other crimes e.g. car thief, robbery
 
 ## Acknowledgements
 
