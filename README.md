@@ -81,41 +81,41 @@ The dataset is available in a csv file [link](https://github.com/MSI17819/Berlin
 The dataset contains pre-processed data into a usable form.
 The data set will be used in the next step of the analysis.
 
-### Technology stack
+## Technology stack
 
 
-#### Computing platform
+### Computing platform
 
 
 - [Miniconda environment](https://docs.conda.io/en/latest/miniconda.html)
 - [Jupyter Notebook](https://jupyter.org/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
-#### Packages for data pre-processing
+### Packages for data pre-processing
 
 
 - [Numpy](https://numpy.org/)
 - [Pandas](https://numpy.org/)
 
-#### Machine Learning library
+### Machine Learning library
 
 
 - [Scikit-learn](https://scikit-learn.org/stable/)
 
-#### Data visualisation library
+### Data visualisation library
 
 
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 
-### Project status
+## Project status
 
 Project is: *in progress*
 
 ## Room for Improvement
 
 
-In future project can be improved by:
+In the future project can be improved by:
 - adding more data to dataset e.g. district longitude, latitude data
 - adding data about district density population
 - expand dataset not only bike thief but other crimes
@@ -126,4 +126,4 @@ In future project can be improved by:
 ## Contact
 
 
-Created by 123michal86@gmail.com - feel free to contact me!
+Created by  [123michal86@gmail.com](123michal86@gmail.com)  - feel free to contact me!
