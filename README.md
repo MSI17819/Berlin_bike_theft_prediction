@@ -15,6 +15,10 @@
 ## General Information
 Prediction bikes thief crimes in Berlin using Machine Learning Models.
 
+Processed data are stored [link](https://github.com/MSI17819/Berlin_bike_theft_prediction/blob/main/Berlin_bike_thief_data_preprocessing.ipynb)
+
+Data analysis and ML application are stored [link](https://github.com/MSI17819/Berlin_bike_theft_prediction/blob/main/Berlin_bike_thief_analysis_and_prediction.ipynb).
+
 ## Dataset
 The dataset is available in a csv file [link](https://daten.berlin.de/datensaetze/fahrraddiebstahl-berlin).
 
